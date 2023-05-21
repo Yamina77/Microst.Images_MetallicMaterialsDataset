@@ -1,12 +1,11 @@
-title: Transactions over £25,000 in the Foreign and Commonwealth Office
-description: An example dataset taken from <a href="http://data.gov.uk/dataset/financial-transactions-data-fco" target="_blank">data.gov.uk</a> used here to demonstrate the open data publishing template in Github. This dataset is a monthly-updated list of all financial transactions spending over £25,000 made by the Foreign and Commonwealth Office, as part of the Government's commitment to transparency in expenditure.
-
-publisher_text: Foreign and Commonwealth Office
-publisher_url: http://data.gov.uk/publisher/foreign-and-commonwealth-office
+title: Material Classiffication Based on Microstructure images processing
+description: 
+publisher_text: 
+publisher_url: 
 
 license_text: UK Open Government Licence (OGL)
 license_url: http://reference.data.gov.uk/id/open-government-licence
 
-frequency: Monthly
+frequency: 
 
-certificate_embed: <script src='https://certificates.theodi.org/datasets/2502/certificates/14842/badge.js'></script>
+certificate_embed: 
