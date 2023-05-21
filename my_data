@@ -1,0 +1,10 @@
+-----
+category: Date
+filename: 3_familiesOfSteels
+weight: 72.2 Mo
+title: Microstructure of metallic materials 
+decription: Microst.Images_Metallic-Materials-Dtataset is a small dataset that contains 90 images for three steel grades
+(austenitic, carbon, and duplex stainless). The steel samples performing and image acquisitions (using the light optic microscope Nikon-Eclipse)
+were done at the Mechanics and Materials Development laboratory of Research Center in Industrial Technologies -CRTI- https://www.crti.
+dz/ 
+type: .jpg images
